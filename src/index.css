@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+@layer base{
+  body {
+    background-color: rgb(236, 236, 236);
+    font-family: var(--font-afacad);
+    scroll-behavior: smooth;
+  }
+  /* font imports */
+  @font-face {
+    font-family: Afacad;
+    src: url('/fonts/afacad/Afacad-VariableFont_wght.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: PlayfairDisplay;
+    src: url('fonts/playfairdisplay/PlayfairDisplay-VariableFont_wght.ttf') format('truetype');
+  }
+  @font-face {
+    font-family: Poppins;
+    src: url('fonts/poppins/Poppins-Regular.ttf') format('truetype');
+    font-style: normal;
+    
+  }
+  /* fonts setup */
+  @theme {
+    --font-poppins: 'Poppins', sans-serif;
+    --font-playfairdisplay: 'PlayfairDisplay', serif;
+    --font-afacad: 'Afacad', sans-serif;
+  }
+}
