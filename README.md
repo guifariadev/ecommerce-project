@@ -1,6 +1,6 @@
-# 🛍️ Essentia - Ecommerce Project
+# 🛍️ Essentia - Digital fashion store
 
-This is an **e-commerce project currently under development and optimization**. The goal is to build a modern, responsive online store with a smooth user experience.
+This is a **Digital fashion store project currently under development and optimization**. The goal is to build a modern, responsive online store with a smooth user experience.
 
 ---
 
