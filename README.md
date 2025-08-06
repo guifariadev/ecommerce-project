@@ -1,4 +1,4 @@
-# 🛍️ Ecommerce Project
+# 🛍️ Essentia - Ecommerce Project
 
 This is an **e-commerce project currently under development and optimization**. The goal is to build a modern, responsive online store with a smooth user experience.
 
